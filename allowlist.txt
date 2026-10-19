@@ -131,3 +131,25 @@ links.e.response.mayoclinic.org
 ablink.alerts.forhers.com
 links.alerts.forhims.com
 links.alerts.hims.com
+
+# Core ESP CNAME Targets
+ct.sendgrid.net
+sendgrid.net
+awstrack.me
+spgo.io
+eu.spgo.io
+post.spmailtechno.com
+sparkpostmail.com
+mandrillapp.com
+list-manage.com
+e.customeriomail.com
+links.iterable.com
+sailthru.com
+link.sailthru.com
+trk.klaviyomail.com
+hubspotemail.net
+hubspotlinks.com
+cl.exct.net
+go.pardot.com
+app.link
+openapp.link
