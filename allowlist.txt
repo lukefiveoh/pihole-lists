@@ -1,3 +1,30 @@
 links.mail.hgtv.com
 links.getblueshift.com
 click.pstmrk.it
+
+# Fix Android / Chromium connectivity checks, eSIM Carrier Services, and Signal Desktop
+gvt2.com
+beacons.gcp.gvt2.com
+beacons.gvt2.com
+redirector.gvt2.com
+# Fix Signal Desktop Linking & Message History Transfer
+signal.org
+chat.signal.org
+ud-chat.signal.org
+storage.signal.org
+cdn.signal.org
+cdn2.signal.org
+cdn3.signal.org
+updates2.signal.org
+whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
+# Fix Carrier SIM/eSIM Activation & OAuth Handoffs
+api.branch.io
+branch.io
+bnc.lt
+app.mintmobile.com
+data.accounts.t-mobile.com
+data.notice.t-mobile.com
+sms.notice.t-mobile.com
+hc-analytics.idp.clogin.att.com
+digital.att.com
+pages.att.com
