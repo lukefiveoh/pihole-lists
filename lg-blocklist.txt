@@ -1,23 +1,25 @@
-us.rdx2.lgtvsdp.com
-us.info.lgsmartad.com
-us.ibs.lgappstv.com
-us.lgtvsdp.com
-ad.lgappstv.com
-smartshare.lgtvsdp.com
-ibis.lgappstv.com
-us.ad.lgsmartad.com
-lgad.cjpowercast.com.edgesuite.net
-ngfts.lge.com
-yumenetworks.com
-smartclip.net
+# Whole-domain telemetry & ACR blocks
+alphonso.tv
+lgsmartad.com
+lgtviot.com
+wiselg.com
+lgsmartplatform.com
+ueiwsp.com
+adsdtvc.com
+smart.adtvc.app
 smartclip.com
-rdx2.lgtvsdp.com
-info.lgsmartad.com
+smartclip.net
+yumenetworks.com
+# Specific subdomains under lgtvcommon.com (Do not wildcard the whole zone)
+cdpbeacon.lgtvcommon.com
+cdplauncher.lgtvcommon.com
+ads.lgtvcommon.com
+recommend.lgtvcommon.com
+homeprv.lgtvcommon.com
+# Specific subdomains under lgappstv.com (Do NOT block the apex lgappstv.com)
+ad.lgappstv.com
+ibis.lgappstv.com
 ibs.lgappstv.com
-lgtvsdp.com
-lgappstv.com
-smartshare.lgtvsdp.com
-lgappstv.com
 
 #Roku stuff
 ads.roku.com
