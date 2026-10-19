@@ -1,6 +1,6 @@
 !https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt
 !https://raw.githubusercontent.com/lukefiveoh/pihole-lists/main/allowlist.txt
-https://v.firebog.net/hosts/AdguardDNS.txt
-https://v.firebog.net/hosts/Easyprivacy.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro-onlydomains.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif-onlydomains.txt
 https://raw.githubusercontent.com/lukefiveoh/pihole-lists/main/lg-blocklist.txt
-https://v.firebog.net/hosts/Admiral.txt
+https://big.oisd.nl/domainswild2
